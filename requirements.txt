@@ -1,0 +1,5 @@
+tqdm==4.54.1
+matplotlib==3.3.3
+tensorflow_gpu==2.3.0
+numpy==1.19.5
+tensorflow==2.5.0
